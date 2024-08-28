@@ -122,4 +122,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS = ["localhosts", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhosts", "127.0.0.1","rajendra-rifqi-mentalhealthtracker.pbp.cs.ui.ac.id"]
